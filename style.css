@@ -7,7 +7,7 @@ img{
 .search {
     position: absolute;
     top: 350px;
-    left:600px;
+    left:550px;
     width: 100px;
 
 }
@@ -23,3 +23,11 @@ li {
     display:inline;
     margin:10px;
 } 
+
+.button {
+    position: absolute;
+    top: 375px;
+    left:900px;
+    width: 125px;
+    height: 150; 
+}

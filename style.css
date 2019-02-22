@@ -1,0 +1,25 @@
+img{
+    position:absolute;
+    top: 120px;
+    left: 700px;
+
+}
+.search {
+    position: absolute;
+    top: 350px;
+    left:600px;
+    width: 100px;
+
+}
+ul {
+    position: absolute;
+    top: 30px;
+    left:1700px;
+    margin:0;
+    padding:0;
+    list-style-type: none;
+}
+li {
+    display:inline;
+    margin:10px;
+} 
